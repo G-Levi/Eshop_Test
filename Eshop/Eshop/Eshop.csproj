@@ -209,6 +209,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CategoriesController.cs" />
+    <Compile Include="Controllers\CustomerServiceController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\IndexController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
@@ -290,6 +291,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Categories\" />
+    <Folder Include="Views\CustomerService\" />
     <Folder Include="Views\Index\" />
     <Folder Include="Views\Product\" />
   </ItemGroup>
